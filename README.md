@@ -1,7 +1,7 @@
 ---
 INFO: "Horizon-TR"
 TITLE: 'BTC'
-LABEL: 'ETH'
+LABEL: 'ETC'
 UNITS: 'ETC-NEM'
 ID:   Void
 ADV: 2.71828182846
