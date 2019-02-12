@@ -5,7 +5,7 @@ LABEL: 'ETC'
 UNITS: 'ETC-NEM'
 ID:   Void
 ADV: 2.71828182846
-Indhstry: RSI
+Industry: RSI
 TG: Trig-Radius
 APL: DTR
 
