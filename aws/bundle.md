@@ -1,6 +1,7 @@
+*
 The bundled package of the AWS SDK for JavaScript is available under the
 Apache License, Version 2.0:
-
+*
   Copyright 2012-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
   Licensed under the Apache License, Version 2.0 (the "License"). You
@@ -17,7 +18,7 @@ Apache License, Version 2.0:
 This product bundles browserify, which is available under a
 "3-clause BSD" license:
 
-  Copyright Joyent, Inc. and other Node contributors.
+*  Copyright Joyent, Inc. and other Node contributors.
 
   Permission is hereby granted, free of charge, to any person obtaining a
   copy of this software and associated documentation files (the
@@ -41,7 +42,7 @@ This product bundles browserify, which is available under a
 This product bundles crypto-browserify, which is available under
 the MIT license:
 
-  Copyright (c) 2013 Dominic Tarr
+ * Copyright (c) 2013 Dominic Tarr
 
   Permission is hereby granted, free of charge, 
   to any person obtaining a copy of this software and 
@@ -67,7 +68,7 @@ the MIT license:
 This product bundles MD5, SHA-1, and SHA-256 hashing algorithm components,
 which are available under a BSD license:
 
-  Copyright (c) 1998 - 2009, Paul Johnston & Contributors
+ * Copyright (c) 1998 - 2009, Paul Johnston & Contributors
   All rights reserved.
 
   Redistribution and use in source and binary forms, with or without
@@ -94,3 +95,4 @@ which are available under a BSD license:
   CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
   THE POSSIBILITY OF SUCH DAMAGE.
+***
