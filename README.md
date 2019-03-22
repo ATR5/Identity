@@ -7,7 +7,7 @@ ID:   Void
 ADV: 2.71828182846
 Industry: RSI
 TG: Trig-Radius
-APL: ı|ı
+APL:  ı|ı
 
 ---
 
@@ -20,9 +20,9 @@ APL: ı|ı
 Do not post issues about non-bitcoin versions of Electrum. -->
 
 ***
->OΣR
+>O Σ R
 >>INFORMATION
->>>HORIZONTAL ı|ı
+>>>HORIZONTAL
 >>>ATR
 
 ***
