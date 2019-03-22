@@ -22,7 +22,7 @@ Do not post issues about non-bitcoin versions of Electrum. -->
 ***
 >OΣR
 >>INFORMATION
->>>HORIZONTAL <->
+>>>HORIZONTAL ı|ı
 >>>ATR
 
 ***
