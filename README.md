@@ -1,13 +1,13 @@
 ---
 INFO: "Horizon-TR"
 TITLE: 'BTC'
-LABEL: 'ETC'
+LABEL: 'ETH'
 UNITS: 'ETC-NEM'
 ID:   Void
 ADV: 2.71828182846
 Industry: RSI
 TG: Trig-Radius
-APL: DTR
+APL: ı|ı
 
 ---
 
