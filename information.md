@@ -1,4 +1,4 @@
-                                           Copyright (c) Microsoft Corporation
+Copyright (c) Microsoft Corporation
                                            
 (A) contribution is the original software, or any additions or changes to the software.
 (A) contributor  is any person that distributes its contribution under this license.
@@ -17,7 +17,7 @@ The terms "reproduce," "reproduction," "derivative works," and "distribution" ha
 (E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
 
 ***
-                                    Copright Silverlight Toolki
+Copright Silverlight Toolki
 
 is licensed under the MIT license. Some included code is licensed under MS-PL which
 is compatible with the terms of MIT.
@@ -27,7 +27,7 @@ Callisto (@timheuer), WindowChrome (@Microsoft, @joecastro) and TransitioningCon
 Silverlight Toolkit 5 are licensed under MS-PL which is compatible with the terms of MIT.
 
 -----
-                                Copyright (c) 2016 MIT License (MIT) 
+Copyright (c) 2016 MIT License (MIT) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -144,8 +144,8 @@ END OF SSH.NET  NOTICES AND INFORMATION
 THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 Do Not Translate or Localize
 ***
-                                          
-                                          Xamarin Remoted iOS Simulator
+
+Xamarin Remoted iOS Simulator
 is based on or incorporates material from the projects listed below (Third Party IP). 
 The original copyright notice and the license under which Microsoft received such Third Party IP, are set forth below. Such licenses and notices are provided for informational purposes only. 
 Microsoft licenses the Third Party IP to you under the licensing terms for the Microsoft product. Microsoft reserves all other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
@@ -163,7 +163,7 @@ Tempest
 http://github.com/ermau/tempest
 =========================================
                                             
-                                            Copyright (c) 2011 Eric Maupin
+Copyright (c) 2011 Eric Maupin
                                             
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
